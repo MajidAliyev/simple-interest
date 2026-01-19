@@ -1,1 +1,1 @@
-# simple-interest
+simple-interest
