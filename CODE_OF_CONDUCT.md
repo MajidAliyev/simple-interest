@@ -79,8 +79,12 @@ in response to reported incidents:
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1,
-available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+The original text is available at: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+
+We gratefully acknowledge the Contributor Covenant authors and maintainers
+for publishing this template which many open-source projects use as a basis
+for their codes of conduct.
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
